@@ -211,6 +211,7 @@ public class Constants {
         public static int TELEMETRY_COMP_UPDATE_INTERVAL_MS = 750;
         public static final double ANALOG_MAX_VOLTAGE = 3.3;
         public static final double GREEN_THRESHOLD = 70;
+        public static final double IMU_PER_ROTATION_OFFSET = 0;
     }
 
     @Config
